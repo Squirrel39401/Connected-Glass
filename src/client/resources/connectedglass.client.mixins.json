@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.cypermethrin.connectedglass.mixin.client",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "BlockModelShaperMixin",
+    "ExampleClientMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}
